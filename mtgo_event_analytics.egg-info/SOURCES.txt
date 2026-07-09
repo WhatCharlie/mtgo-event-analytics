@@ -1,0 +1,13 @@
+README.md
+pyproject.toml
+mtgo_event_analytics.egg-info/PKG-INFO
+mtgo_event_analytics.egg-info/SOURCES.txt
+mtgo_event_analytics.egg-info/dependency_links.txt
+mtgo_event_analytics.egg-info/top_level.txt
+scraper/__init__.py
+scraper/event_parser.py
+scraper/event_processor.py
+scraper/fetcher.py
+scraper/file_io.py
+scraper/mtgo_parser.py
+scraper/urls.py
